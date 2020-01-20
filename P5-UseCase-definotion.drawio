@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-20T16:35:49.092Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xhsuhrksIuTI5sOcPpCN" version="12.5.5" type="github" pages="10">
+<mxfile modified="2020-01-20T16:36:18.368Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="dMMsjk37pLWk1RrfrRPq" version="12.5.5" type="github" pages="10">
   <diagram id="RnfZivXaH4BhRtFcMvS2" name="Cartographie Système">
     <mxGraphModel dx="910" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1333,7 +1333,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P9uIT8q__JHGb5nrRjpS" name="Diagramme de deploiement">
-    <mxGraphModel dx="1300" dy="696" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="628" dy="336" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="12623tFRJPhq_-6nn9LR-0"/>
         <mxCell id="12623tFRJPhq_-6nn9LR-1" parent="12623tFRJPhq_-6nn9LR-0"/>
@@ -1453,7 +1453,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dmBcxD9n5TZolt8CaHgB-42" value="Livreur" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="12623tFRJPhq_-6nn9LR-1">
-          <mxGeometry x="330" y="50" width="60" height="90" as="geometry"/>
+          <mxGeometry x="324" y="70" width="60" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="dmBcxD9n5TZolt8CaHgB-47" value="Application Mobile" style="shape=component;align=center;spacingLeft=36;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" vertex="1" parent="12623tFRJPhq_-6nn9LR-1">
           <mxGeometry x="670" y="240" width="170" height="90" as="geometry"/>
@@ -1465,7 +1465,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dmBcxD9n5TZolt8CaHgB-49" value="OS Mobile" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_os;fontSize=14;" vertex="1" parent="12623tFRJPhq_-6nn9LR-1">
-          <mxGeometry x="549.5" y="96" width="70" height="70" as="geometry"/>
+          <mxGeometry x="549.5" y="102" width="70" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="dmBcxD9n5TZolt8CaHgB-52" value="" style="endArrow=classic;html=1;strokeWidth=3;fontSize=14;entryX=0.094;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="12623tFRJPhq_-6nn9LR-1" source="cx5RqRA8zr4Xco5uPIyL-3" target="dmBcxD9n5TZolt8CaHgB-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1491,9 +1491,11 @@
         </mxCell>
         <mxCell id="dmBcxD9n5TZolt8CaHgB-61" value="" style="endArrow=classic;html=1;strokeWidth=3;fontSize=14;" edge="1" parent="12623tFRJPhq_-6nn9LR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410.01" y="109.99999999999989" as="sourcePoint"/>
-            <mxPoint x="530.01" y="110" as="targetPoint"/>
-            <Array as="points"/>
+            <mxPoint x="410.01" y="136.65999999999988" as="sourcePoint"/>
+            <mxPoint x="530.01" y="136.66" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="480" y="136.66"/>
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
