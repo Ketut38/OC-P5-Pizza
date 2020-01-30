@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-30T12:47:16.309Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Rvp03T9CNNFV3yXuAj4t" version="12.6.2" type="github" pages="10">
+<mxfile modified="2020-01-30T12:48:45.267Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="VKDTP8JFzuUHZNPkEGVI" version="12.6.2" type="github" pages="10">
   <diagram id="RnfZivXaH4BhRtFcMvS2" name="Cartographie Système">
     <mxGraphModel dx="925" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1145,7 +1145,7 @@
           <mxGeometry width="30" as="geometry"/>
         </mxCell>
         <mxCell id="oo6yfTAsagvNRZZa-_fU-17" value="1 to 1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="yEfXDRadjuqgeZMWrnG7-1" vertex="1">
-          <mxGeometry x="70" y="630" width="50" height="20" as="geometry"/>
+          <mxGeometry x="75" y="620" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="oo6yfTAsagvNRZZa-_fU-19" value="Customer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" parent="yEfXDRadjuqgeZMWrnG7-1" vertex="1">
           <mxGeometry x="620" y="654" width="160" height="170" as="geometry"/>
@@ -1224,6 +1224,9 @@
             <mxPoint x="347.3333333333335" y="820" as="sourcePoint"/>
             <mxPoint x="350" y="833" as="targetPoint"/>
             <Array as="points">
+              <mxPoint x="330" y="758"/>
+              <mxPoint x="300" y="758"/>
+              <mxPoint x="280" y="758"/>
               <mxPoint x="220" y="758"/>
               <mxPoint x="240" y="758"/>
               <mxPoint x="280" y="740"/>
